@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution 3SumSort{
+class Solution threeSumSort{
     public List<List<Integer>> threeSum(int[] nums) {
         List<List<Integer>> result = new ArrayList<>();
 
