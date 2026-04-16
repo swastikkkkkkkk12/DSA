@@ -28,7 +28,7 @@ class Twenty1game {
 
         return result;
     }
-
+// recall this.
     public static void main(String[] args) {
         int n = 21;
         int k = 17;
